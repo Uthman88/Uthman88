@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/c50c7092-75bb-4de5-a420-2b0a4b2104c1)
+
 # Hi, I'm Uthman! 👋
 
 🌱 **Beginner in software development** | Currently learning **Python** and **HTML/CSS** | Always excited to grow and improve! 
