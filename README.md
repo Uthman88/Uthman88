@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/c50c7092-75bb-4de5-a420-2b0a4b2104c1)
+![github-header-image](https://github.com/user-attachments/assets/7d39ed00-04c9-4d4e-b748-670f51962c4a)
 
 # Hi, I'm Uthman! 👋
 
