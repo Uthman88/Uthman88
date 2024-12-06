@@ -2,7 +2,7 @@
 
 # Hi, I'm Otman! 👋
 
-🌱 **Beginner in software development** | Currently learning **Python** and **HTML/CSS** | Always excited to grow and improve! 
+🌱 **Beginner in web development** | Currently learning **Python** and **HTML/CSS** | Always excited to grow and improve! 
 
 ## About Me
 
