@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/be8563d5-4960-46ac-bbef-ede0c0f22c22)
 
-# Hi, I'm Uthman! 👋
+# Hi, I'm Otman! 👋
 
 🌱 **Beginner in software development** | Currently learning **Python** and **HTML/CSS** | Always excited to grow and improve! 
 
